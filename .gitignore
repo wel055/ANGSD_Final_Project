@@ -1,0 +1,24 @@
+# Large data directories
+raw_sra/
+alignments/
+star_index/
+SRR5305524/
+fastq/
+ref/
+qc/
+
+# Binary/data files
+*.sra
+*.bam
+*.bai
+*.sam
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.bed
+*.gtf
+*.fa
+*.fasta
+*.fa.fai
+*.genome

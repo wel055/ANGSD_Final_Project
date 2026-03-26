@@ -1,0 +1,14 @@
+Module	Section	Sample Name	Source
+Samtools	flagstat	SRR5305591	/home/fs01/wel4014/angsd_proj/alignments/SRR5305591.flagstat.txt
+Samtools	flagstat	SRR5305567	/home/fs01/wel4014/angsd_proj/alignments/SRR5305567.flagstat.txt
+Samtools	flagstat	SRR5305480	/home/fs01/wel4014/angsd_proj/alignments/SRR5305480.flagstat.txt
+Samtools	flagstat	SRR5305546	/home/fs01/wel4014/angsd_proj/alignments/SRR5305546.flagstat.txt
+Samtools	flagstat	SRR5305524	/home/fs01/wel4014/angsd_proj/alignments/SRR5305524.flagstat.txt
+Samtools	flagstat	SRR5305508	/home/fs01/wel4014/angsd_proj/alignments/SRR5305508.flagstat.txt
+STAR	SummaryLog	SRR5305567	/home/fs01/wel4014/angsd_proj/alignments/SRR5305567.Log.final.out
+STAR	SummaryLog	SRR5305524	/home/fs01/wel4014/angsd_proj/alignments/SRR5305524.Log.final.out
+STAR	SummaryLog	SRR5305591	/home/fs01/wel4014/angsd_proj/alignments/SRR5305591.Log.final.out
+STAR	SummaryLog	SRR5305480	/home/fs01/wel4014/angsd_proj/alignments/SRR5305480.Log.final.out
+STAR	SummaryLog	SRR5305546	/home/fs01/wel4014/angsd_proj/alignments/SRR5305546.Log.final.out
+STAR	SummaryLog	SRR5305508	/home/fs01/wel4014/angsd_proj/alignments/SRR5305508.Log.final.out
+STAR	SummaryLog	Log.final.out	/home/fs01/wel4014/angsd_proj/alignments/SRR5305567._STARpass1/Log.final.out

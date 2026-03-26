@@ -1,0 +1,81 @@
+Running on compute node: c0010
+Start time: Thu Feb 26 03:27:21 EST 2026
+====================================
+Aligning SRR5305524
+	STAR --runThreadN 8 --genomeDir /home/fs01/wel4014/angsd_proj/star_index --readFilesIn /home/fs01/wel4014/angsd_proj/raw_sra/control/SRR5305524_1.fastq.gz /home/fs01/wel4014/angsd_proj/raw_sra/control/SRR5305524_2.fastq.gz --readFilesCommand zcat --outFileNamePrefix /home/fs01/wel4014/angsd_proj/alignments/SRR5305524. --outSAMtype BAM SortedByCoordinate --twopassMode Basic
+	STAR version: 2.7.11b   compiled: 2024-01-25T16:12:02-05:00 :/home/dobin/data/STAR/STARcode/STAR.master/source
+Feb 26 03:27:21 ..... started STAR run
+Feb 26 03:27:22 ..... loading genome
+Feb 26 03:29:10 ..... started 1st pass mapping
+Feb 26 03:37:52 ..... finished 1st pass mapping
+Feb 26 03:37:53 ..... inserting junctions into the genome indices
+Feb 26 03:39:34 ..... started mapping
+Feb 26 03:53:13 ..... finished mapping
+Feb 26 03:53:14 ..... started sorting BAM
+Feb 26 03:56:49 ..... finished successfully
+====================================
+Aligning SRR5305480
+	STAR --runThreadN 8 --genomeDir /home/fs01/wel4014/angsd_proj/star_index --readFilesIn /home/fs01/wel4014/angsd_proj/raw_sra/control/SRR5305480_1.fastq.gz /home/fs01/wel4014/angsd_proj/raw_sra/control/SRR5305480_2.fastq.gz --readFilesCommand zcat --outFileNamePrefix /home/fs01/wel4014/angsd_proj/alignments/SRR5305480. --outSAMtype BAM SortedByCoordinate --twopassMode Basic
+	STAR version: 2.7.11b   compiled: 2024-01-25T16:12:02-05:00 :/home/dobin/data/STAR/STARcode/STAR.master/source
+Feb 26 04:00:23 ..... started STAR run
+Feb 26 04:00:23 ..... loading genome
+Feb 26 04:02:11 ..... started 1st pass mapping
+Feb 26 04:08:29 ..... finished 1st pass mapping
+Feb 26 04:08:30 ..... inserting junctions into the genome indices
+Feb 26 04:10:04 ..... started mapping
+Feb 26 04:20:12 ..... finished mapping
+Feb 26 04:20:14 ..... started sorting BAM
+Feb 26 04:22:10 ..... finished successfully
+====================================
+Aligning SRR5305508
+	STAR --runThreadN 8 --genomeDir /home/fs01/wel4014/angsd_proj/star_index --readFilesIn /home/fs01/wel4014/angsd_proj/raw_sra/control/SRR5305508_1.fastq.gz /home/fs01/wel4014/angsd_proj/raw_sra/control/SRR5305508_2.fastq.gz --readFilesCommand zcat --outFileNamePrefix /home/fs01/wel4014/angsd_proj/alignments/SRR5305508. --outSAMtype BAM SortedByCoordinate --twopassMode Basic
+	STAR version: 2.7.11b   compiled: 2024-01-25T16:12:02-05:00 :/home/dobin/data/STAR/STARcode/STAR.master/source
+Feb 26 04:24:40 ..... started STAR run
+Feb 26 04:24:41 ..... loading genome
+Feb 26 04:26:26 ..... started 1st pass mapping
+Feb 26 04:33:39 ..... finished 1st pass mapping
+Feb 26 04:33:41 ..... inserting junctions into the genome indices
+Feb 26 04:35:27 ..... started mapping
+Feb 26 04:46:32 ..... finished mapping
+Feb 26 04:46:34 ..... started sorting BAM
+Feb 26 04:48:28 ..... finished successfully
+====================================
+Aligning SRR5305546
+	STAR --runThreadN 8 --genomeDir /home/fs01/wel4014/angsd_proj/star_index --readFilesIn /home/fs01/wel4014/angsd_proj/raw_sra/AD/SRR5305546_1.fastq.gz /home/fs01/wel4014/angsd_proj/raw_sra/AD/SRR5305546_2.fastq.gz --readFilesCommand zcat --outFileNamePrefix /home/fs01/wel4014/angsd_proj/alignments/SRR5305546. --outSAMtype BAM SortedByCoordinate --twopassMode Basic
+	STAR version: 2.7.11b   compiled: 2024-01-25T16:12:02-05:00 :/home/dobin/data/STAR/STARcode/STAR.master/source
+Feb 26 04:51:13 ..... started STAR run
+Feb 26 04:51:13 ..... loading genome
+Feb 26 04:52:59 ..... started 1st pass mapping
+Feb 26 05:01:49 ..... finished 1st pass mapping
+Feb 26 05:01:51 ..... inserting junctions into the genome indices
+Feb 26 05:03:35 ..... started mapping
+Feb 26 05:16:02 ..... finished mapping
+Feb 26 05:16:04 ..... started sorting BAM
+Feb 26 05:18:15 ..... finished successfully
+====================================
+Aligning SRR5305567
+	STAR --runThreadN 8 --genomeDir /home/fs01/wel4014/angsd_proj/star_index --readFilesIn /home/fs01/wel4014/angsd_proj/raw_sra/AD/SRR5305567_1.fastq.gz /home/fs01/wel4014/angsd_proj/raw_sra/AD/SRR5305567_2.fastq.gz --readFilesCommand zcat --outFileNamePrefix /home/fs01/wel4014/angsd_proj/alignments/SRR5305567. --outSAMtype BAM SortedByCoordinate --twopassMode Basic
+	STAR version: 2.7.11b   compiled: 2024-01-25T16:12:02-05:00 :/home/dobin/data/STAR/STARcode/STAR.master/source
+Feb 26 05:21:05 ..... started STAR run
+Feb 26 05:21:06 ..... loading genome
+Feb 26 05:22:53 ..... started 1st pass mapping
+Feb 26 05:28:13 ..... finished 1st pass mapping
+Feb 26 05:28:15 ..... inserting junctions into the genome indices
+Feb 26 05:29:52 ..... started mapping
+Feb 26 05:38:32 ..... finished mapping
+Feb 26 05:38:39 ..... started sorting BAM
+Feb 26 05:39:57 ..... finished successfully
+====================================
+Aligning SRR5305591
+	STAR --runThreadN 8 --genomeDir /home/fs01/wel4014/angsd_proj/star_index --readFilesIn /home/fs01/wel4014/angsd_proj/raw_sra/AD/SRR5305591_1.fastq.gz /home/fs01/wel4014/angsd_proj/raw_sra/AD/SRR5305591_2.fastq.gz --readFilesCommand zcat --outFileNamePrefix /home/fs01/wel4014/angsd_proj/alignments/SRR5305591. --outSAMtype BAM SortedByCoordinate --twopassMode Basic
+	STAR version: 2.7.11b   compiled: 2024-01-25T16:12:02-05:00 :/home/dobin/data/STAR/STARcode/STAR.master/source
+Feb 26 05:42:09 ..... started STAR run
+Feb 26 05:42:09 ..... loading genome
+Feb 26 05:43:55 ..... started 1st pass mapping
+Feb 26 05:50:16 ..... finished 1st pass mapping
+Feb 26 05:50:18 ..... inserting junctions into the genome indices
+Feb 26 05:51:53 ..... started mapping
+Feb 26 06:01:45 ..... finished mapping
+Feb 26 06:01:47 ..... started sorting BAM
+Feb 26 06:03:38 ..... finished successfully
+Alignment completed: Thu Feb 26 06:06:22 EST 2026
