@@ -1,0 +1,12 @@
+/var/spool/slurmd/job2719121/slurm_script: line 27: fasterq-dump: command not found
+gzip: /home/fs01/wel4014/angsd_proj/raw_sra/AD/SRR5305558_1.fastq: No such file or directory
+gzip: /home/fs01/wel4014/angsd_proj/raw_sra/AD/SRR5305558_2.fastq: No such file or directory
+/var/spool/slurmd/job2719121/slurm_script: line 27: fasterq-dump: command not found
+gzip: /home/fs01/wel4014/angsd_proj/raw_sra/AD/SRR5305477_1.fastq: No such file or directory
+gzip: /home/fs01/wel4014/angsd_proj/raw_sra/AD/SRR5305477_2.fastq: No such file or directory
+/var/spool/slurmd/job2719121/slurm_script: line 41: fasterq-dump: command not found
+gzip: /home/fs01/wel4014/angsd_proj/raw_sra/control/SRR5305483_1.fastq: No such file or directory
+gzip: /home/fs01/wel4014/angsd_proj/raw_sra/control/SRR5305483_2.fastq: No such file or directory
+/var/spool/slurmd/job2719121/slurm_script: line 41: fasterq-dump: command not found
+gzip: /home/fs01/wel4014/angsd_proj/raw_sra/control/SRR5305576_1.fastq: No such file or directory
+gzip: /home/fs01/wel4014/angsd_proj/raw_sra/control/SRR5305576_2.fastq: No such file or directory

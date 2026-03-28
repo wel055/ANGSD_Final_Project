@@ -1,0 +1,15 @@
+Status	/home/fs01/wel4014/angsd_proj/alignments/SRR5305524.Aligned.sortedByCoord.out.bam	/home/fs01/wel4014/angsd_proj/alignments/SRR5305480.Aligned.sortedByCoord.out.bam	/home/fs01/wel4014/angsd_proj/alignments/SRR5305508.Aligned.sortedByCoord.out.bam	/home/fs01/wel4014/angsd_proj/alignments/SRR5305546.Aligned.sortedByCoord.out.bam	/home/fs01/wel4014/angsd_proj/alignments/SRR5305567.Aligned.sortedByCoord.out.bam	/home/fs01/wel4014/angsd_proj/alignments/SRR5305591.Aligned.sortedByCoord.out.bam	/home/fs01/wel4014/angsd_proj/alignments/SRR5305483.Aligned.sortedByCoord.out.bam	/home/fs01/wel4014/angsd_proj/alignments/SRR5305576.Aligned.sortedByCoord.out.bam	/home/fs01/wel4014/angsd_proj/alignments/SRR5305558.Aligned.sortedByCoord.out.bam	/home/fs01/wel4014/angsd_proj/alignments/SRR5305477.Aligned.sortedByCoord.out.bam
+Assigned	32228219	23942126	26393329	24808710	21371533	25144088	22342220	31576037	17291418	28239662
+Unassigned_Unmapped	0	0	0	0	0	0	0	0	0	0
+Unassigned_Read_Type	0	0	0	0	0	0	0	0	0	0
+Unassigned_Singleton	0	0	0	0	0	0	0	0	0	0
+Unassigned_MappingQuality	0	0	0	0	0	0	0	0	0	0
+Unassigned_Chimera	0	0	0	0	0	0	0	0	0	0
+Unassigned_FragmentLength	0	0	0	0	0	0	0	0	0	0
+Unassigned_Duplicate	0	0	0	0	0	0	0	0	0	0
+Unassigned_MultiMapping	12244424	8089724	9899911	10435165	8364687	10191670	8329181	10507121	6774483	11056792
+Unassigned_Secondary	0	0	0	0	0	0	0	0	0	0
+Unassigned_NonSplit	0	0	0	0	0	0	0	0	0	0
+Unassigned_NoFeatures	4113520	2597390	4217224	3707082	2611576	2776431	937072	4186227	2120669	4024567
+Unassigned_Overlapping_Length	0	0	0	0	0	0	0	0	0	0
+Unassigned_Ambiguity	1498712	985943	1110744	1065712	926608	1020863	695548	1419289	793909	1177312

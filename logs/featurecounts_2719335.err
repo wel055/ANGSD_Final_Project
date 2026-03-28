@@ -1,0 +1,114 @@
+
+        ==========     _____ _    _ ____  _____  ______          _____  
+        =====         / ____| |  | |  _ \|  __ \|  ____|   /\   |  __ \ 
+          =====      | (___ | |  | | |_) | |__) | |__     /  \  | |  | |
+            ====      \___ \| |  | |  _ <|  _  /|  __|   / /\ \ | |  | |
+              ====    ____) | |__| | |_) | | \ \| |____ / ____ \| |__| |
+        ==========   |_____/ \____/|____/|_|  \_\______/_/    \_\_____/
+	  v2.0.6
+
+//========================== featureCounts setting ===========================\\
+||                                                                            ||
+||             Input files : 10 BAM files                                     ||
+||                                                                            ||
+||                           SRR5305524.Aligned.sortedByCoord.out.bam         ||
+||                           SRR5305480.Aligned.sortedByCoord.out.bam         ||
+||                           SRR5305508.Aligned.sortedByCoord.out.bam         ||
+||                           SRR5305546.Aligned.sortedByCoord.out.bam         ||
+||                           SRR5305567.Aligned.sortedByCoord.out.bam         ||
+||                           SRR5305591.Aligned.sortedByCoord.out.bam         ||
+||                           SRR5305483.Aligned.sortedByCoord.out.bam         ||
+||                           SRR5305576.Aligned.sortedByCoord.out.bam         ||
+||                           SRR5305558.Aligned.sortedByCoord.out.bam         ||
+||                           SRR5305477.Aligned.sortedByCoord.out.bam         ||
+||                                                                            ||
+||             Output file : gene_counts.txt                                  ||
+||                 Summary : gene_counts.txt.summary                          ||
+||              Paired-end : yes                                              ||
+||        Count read pairs : yes                                              ||
+||              Annotation : GCF_000001405.40_GRCh38.p14_genomic.gtf (GTF)    ||
+||      Dir for temp files : /home/fs01/wel4014/angsd_proj/counts             ||
+||                                                                            ||
+||                 Threads : 8                                                ||
+||                   Level : meta-feature level                               ||
+||      Multimapping reads : not counted                                      ||
+|| Multi-overlapping reads : not counted                                      ||
+||   Min overlapping bases : 1                                                ||
+||                                                                            ||
+\\============================================================================//
+
+//================================= Running ==================================\\
+||                                                                            ||
+|| Load annotation file GCF_000001405.40_GRCh38.p14_genomic.gtf ...           ||
+||    Features : 2315905                                                      ||
+||    Meta-features : 50116                                                   ||
+||    Chromosomes/contigs : 524                                               ||
+||                                                                            ||
+|| Process BAM file SRR5305524.Aligned.sortedByCoord.out.bam...               ||
+||    Paired-end reads are included.                                          ||
+||    Total alignments : 50084875                                             ||
+||    Successfully assigned alignments : 32228219 (64.3%)                     ||
+||    Running time : 0.82 minutes                                             ||
+||                                                                            ||
+|| Process BAM file SRR5305480.Aligned.sortedByCoord.out.bam...               ||
+||    Paired-end reads are included.                                          ||
+||    Total alignments : 35615183                                             ||
+||    Successfully assigned alignments : 23942126 (67.2%)                     ||
+||    Running time : 0.67 minutes                                             ||
+||                                                                            ||
+|| Process BAM file SRR5305508.Aligned.sortedByCoord.out.bam...               ||
+||    Paired-end reads are included.                                          ||
+||    Total alignments : 41621208                                             ||
+||    Successfully assigned alignments : 26393329 (63.4%)                     ||
+||    Running time : 0.52 minutes                                             ||
+||                                                                            ||
+|| Process BAM file SRR5305546.Aligned.sortedByCoord.out.bam...               ||
+||    Paired-end reads are included.                                          ||
+||    Total alignments : 40016669                                             ||
+||    Successfully assigned alignments : 24808710 (62.0%)                     ||
+||    Running time : 0.70 minutes                                             ||
+||                                                                            ||
+|| Process BAM file SRR5305567.Aligned.sortedByCoord.out.bam...               ||
+||    Paired-end reads are included.                                          ||
+||    Total alignments : 33274404                                             ||
+||    Successfully assigned alignments : 21371533 (64.2%)                     ||
+||    Running time : 0.59 minutes                                             ||
+||                                                                            ||
+|| Process BAM file SRR5305591.Aligned.sortedByCoord.out.bam...               ||
+||    Paired-end reads are included.                                          ||
+||    Total alignments : 39133052                                             ||
+||    Successfully assigned alignments : 25144088 (64.3%)                     ||
+||    Running time : 0.89 minutes                                             ||
+||                                                                            ||
+|| Process BAM file SRR5305483.Aligned.sortedByCoord.out.bam...               ||
+||    Paired-end reads are included.                                          ||
+||    Total alignments : 32304021                                             ||
+||    Successfully assigned alignments : 22342220 (69.2%)                     ||
+||    Running time : 1.12 minutes                                             ||
+||                                                                            ||
+|| Process BAM file SRR5305576.Aligned.sortedByCoord.out.bam...               ||
+||    Paired-end reads are included.                                          ||
+||    Total alignments : 47688674                                             ||
+||    Successfully assigned alignments : 31576037 (66.2%)                     ||
+||    Running time : 0.54 minutes                                             ||
+||                                                                            ||
+|| Process BAM file SRR5305558.Aligned.sortedByCoord.out.bam...               ||
+||    Paired-end reads are included.                                          ||
+||    Total alignments : 26980479                                             ||
+||    Successfully assigned alignments : 17291418 (64.1%)                     ||
+||    Running time : 0.29 minutes                                             ||
+||                                                                            ||
+|| Process BAM file SRR5305477.Aligned.sortedByCoord.out.bam...               ||
+||    Paired-end reads are included.                                          ||
+||    Total alignments : 44498333                                             ||
+||    Successfully assigned alignments : 28239662 (63.5%)                     ||
+||    Running time : 0.76 minutes                                             ||
+||                                                                            ||
+|| Write the final count table.                                               ||
+|| Write the read assignment summary.                                         ||
+||                                                                            ||
+|| Summary of counting results can be found in file "/home/fs01/wel4014/angs  ||
+|| d_proj/counts/gene_counts.txt.summary"                                     ||
+||                                                                            ||
+\\============================================================================//
+

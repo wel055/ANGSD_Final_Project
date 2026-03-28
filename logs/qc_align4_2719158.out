@@ -1,0 +1,15 @@
+Running on compute node: c0010
+Start time: Fri Mar 27 05:02:20 EDT 2026
+====================================
+Running FastQC on new alignment BAM files
+====================================
+Analysis complete for SRR5305558.Aligned.sortedByCoord.out.bam
+Analysis complete for SRR5305477.Aligned.sortedByCoord.out.bam
+Analysis complete for SRR5305483.Aligned.sortedByCoord.out.bam
+Analysis complete for SRR5305576.Aligned.sortedByCoord.out.bam
+FastQC completed: Fri Mar 27 05:20:12 EDT 2026
+====================================
+Running MultiQC on ALL samples (original 6 + new 4)
+====================================
+MultiQC completed: Fri Mar 27 05:21:55 EDT 2026
+Done! Check /home/fs01/wel4014/angsd_proj/qc/multiqc/qc_all_10_samples.html

@@ -1,0 +1,5 @@
+Started analysis of SRR5305558.Aligned.sortedByCoord.out.bam
+Started analysis of SRR5305477.Aligned.sortedByCoord.out.bam
+Started analysis of SRR5305483.Aligned.sortedByCoord.out.bam
+Started analysis of SRR5305576.Aligned.sortedByCoord.out.bam
+/var/spool/slurmd/job2719123/slurm_script: line 46: multiqc: command not found

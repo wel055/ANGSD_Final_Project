@@ -1,0 +1,55 @@
+Running on compute node: c0010
+Start time: Fri Mar 27 03:29:47 EDT 2026
+====================================
+Aligning SRR5305483
+	/athena/angsd/scratch/mef3005/share/envs/angsd/bin/STAR-avx2 --runThreadN 8 --genomeDir /home/fs01/wel4014/angsd_proj/star_index --readFilesIn /home/fs01/wel4014/angsd_proj/raw_sra/control/SRR5305483_1.fastq.gz /home/fs01/wel4014/angsd_proj/raw_sra/control/SRR5305483_2.fastq.gz --readFilesCommand zcat --outFileNamePrefix /home/fs01/wel4014/angsd_proj/alignments/SRR5305483. --outSAMtype BAM SortedByCoordinate --twopassMode Basic
+	STAR version: 2.7.11a   compiled: 2023-09-15T02:58:53+0000 :/opt/conda/conda-bld/star_1694746407721/work/source
+Mar 27 03:29:59 ..... started STAR run
+Mar 27 03:30:00 ..... loading genome
+Mar 27 03:31:53 ..... started 1st pass mapping
+Mar 27 03:38:42 ..... finished 1st pass mapping
+Mar 27 03:38:43 ..... inserting junctions into the genome indices
+Mar 27 03:40:02 ..... started mapping
+Mar 27 03:47:19 ..... finished mapping
+Mar 27 03:47:21 ..... started sorting BAM
+Mar 27 03:48:59 ..... finished successfully
+====================================
+Aligning SRR5305576
+	/athena/angsd/scratch/mef3005/share/envs/angsd/bin/STAR-avx2 --runThreadN 8 --genomeDir /home/fs01/wel4014/angsd_proj/star_index --readFilesIn /home/fs01/wel4014/angsd_proj/raw_sra/control/SRR5305576_1.fastq.gz /home/fs01/wel4014/angsd_proj/raw_sra/control/SRR5305576_2.fastq.gz --readFilesCommand zcat --outFileNamePrefix /home/fs01/wel4014/angsd_proj/alignments/SRR5305576. --outSAMtype BAM SortedByCoordinate --twopassMode Basic
+	STAR version: 2.7.11a   compiled: 2023-09-15T02:58:53+0000 :/opt/conda/conda-bld/star_1694746407721/work/source
+Mar 27 03:49:53 ..... started STAR run
+Mar 27 03:49:53 ..... loading genome
+Mar 27 03:51:45 ..... started 1st pass mapping
+Mar 27 04:00:09 ..... finished 1st pass mapping
+Mar 27 04:00:11 ..... inserting junctions into the genome indices
+Mar 27 04:01:51 ..... started mapping
+Mar 27 04:13:21 ..... finished mapping
+Mar 27 04:13:25 ..... started sorting BAM
+Mar 27 04:16:59 ..... finished successfully
+====================================
+Aligning SRR5305558
+	/athena/angsd/scratch/mef3005/share/envs/angsd/bin/STAR-avx2 --runThreadN 8 --genomeDir /home/fs01/wel4014/angsd_proj/star_index --readFilesIn /home/fs01/wel4014/angsd_proj/raw_sra/AD/SRR5305558_1.fastq.gz /home/fs01/wel4014/angsd_proj/raw_sra/AD/SRR5305558_2.fastq.gz --readFilesCommand zcat --outFileNamePrefix /home/fs01/wel4014/angsd_proj/alignments/SRR5305558. --outSAMtype BAM SortedByCoordinate --twopassMode Basic
+	STAR version: 2.7.11a   compiled: 2023-09-15T02:58:53+0000 :/opt/conda/conda-bld/star_1694746407721/work/source
+Mar 27 04:18:30 ..... started STAR run
+Mar 27 04:18:30 ..... loading genome
+Mar 27 04:20:23 ..... started 1st pass mapping
+Mar 27 04:24:53 ..... finished 1st pass mapping
+Mar 27 04:24:54 ..... inserting junctions into the genome indices
+Mar 27 04:26:20 ..... started mapping
+Mar 27 04:33:01 ..... finished mapping
+Mar 27 04:33:02 ..... started sorting BAM
+Mar 27 04:33:52 ..... finished successfully
+====================================
+Aligning SRR5305477
+	/athena/angsd/scratch/mef3005/share/envs/angsd/bin/STAR-avx2 --runThreadN 8 --genomeDir /home/fs01/wel4014/angsd_proj/star_index --readFilesIn /home/fs01/wel4014/angsd_proj/raw_sra/AD/SRR5305477_1.fastq.gz /home/fs01/wel4014/angsd_proj/raw_sra/AD/SRR5305477_2.fastq.gz --readFilesCommand zcat --outFileNamePrefix /home/fs01/wel4014/angsd_proj/alignments/SRR5305477. --outSAMtype BAM SortedByCoordinate --twopassMode Basic
+	STAR version: 2.7.11a   compiled: 2023-09-15T02:58:53+0000 :/opt/conda/conda-bld/star_1694746407721/work/source
+Mar 27 04:34:38 ..... started STAR run
+Mar 27 04:34:39 ..... loading genome
+Mar 27 04:36:29 ..... started 1st pass mapping
+Mar 27 04:43:41 ..... finished 1st pass mapping
+Mar 27 04:43:42 ..... inserting junctions into the genome indices
+Mar 27 04:45:27 ..... started mapping
+Mar 27 04:57:23 ..... finished mapping
+Mar 27 04:57:25 ..... started sorting BAM
+Mar 27 05:00:51 ..... finished successfully
+Alignment completed: Fri Mar 27 05:02:12 EDT 2026

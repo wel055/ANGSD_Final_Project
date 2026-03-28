@@ -1,0 +1,32 @@
+!!!!! WARNING:  Could not ls /home/fs01/wel4014/angsd_proj/raw_sra/control/SRR5305483_1.fastq.gz
+
+EXITING: because of fatal INPUT file error: could not open read file: /home/fs01/wel4014/angsd_proj/raw_sra/control/SRR5305483_1.fastq.gz
+SOLUTION: check that this file exists and has read permision.
+
+Mar 26 23:42:06 ...... FATAL ERROR, exiting
+samtools index: "/home/fs01/wel4014/angsd_proj/alignments/SRR5305483.Aligned.sortedByCoord.out.bam" is in a format that cannot be usefully indexed
+Failed to read header for "/home/fs01/wel4014/angsd_proj/alignments/SRR5305483.Aligned.sortedByCoord.out.bam"
+!!!!! WARNING:  Could not ls /home/fs01/wel4014/angsd_proj/raw_sra/control/SRR5305576_1.fastq.gz
+
+EXITING: because of fatal INPUT file error: could not open read file: /home/fs01/wel4014/angsd_proj/raw_sra/control/SRR5305576_1.fastq.gz
+SOLUTION: check that this file exists and has read permision.
+
+Mar 26 23:42:07 ...... FATAL ERROR, exiting
+samtools index: "/home/fs01/wel4014/angsd_proj/alignments/SRR5305576.Aligned.sortedByCoord.out.bam" is in a format that cannot be usefully indexed
+Failed to read header for "/home/fs01/wel4014/angsd_proj/alignments/SRR5305576.Aligned.sortedByCoord.out.bam"
+!!!!! WARNING:  Could not ls /home/fs01/wel4014/angsd_proj/raw_sra/AD/SRR5305558_1.fastq.gz
+
+EXITING: because of fatal INPUT file error: could not open read file: /home/fs01/wel4014/angsd_proj/raw_sra/AD/SRR5305558_1.fastq.gz
+SOLUTION: check that this file exists and has read permision.
+
+Mar 26 23:42:07 ...... FATAL ERROR, exiting
+samtools index: "/home/fs01/wel4014/angsd_proj/alignments/SRR5305558.Aligned.sortedByCoord.out.bam" is in a format that cannot be usefully indexed
+Failed to read header for "/home/fs01/wel4014/angsd_proj/alignments/SRR5305558.Aligned.sortedByCoord.out.bam"
+!!!!! WARNING:  Could not ls /home/fs01/wel4014/angsd_proj/raw_sra/AD/SRR5305477_1.fastq.gz
+
+EXITING: because of fatal INPUT file error: could not open read file: /home/fs01/wel4014/angsd_proj/raw_sra/AD/SRR5305477_1.fastq.gz
+SOLUTION: check that this file exists and has read permision.
+
+Mar 26 23:42:07 ...... FATAL ERROR, exiting
+samtools index: "/home/fs01/wel4014/angsd_proj/alignments/SRR5305477.Aligned.sortedByCoord.out.bam" is in a format that cannot be usefully indexed
+Failed to read header for "/home/fs01/wel4014/angsd_proj/alignments/SRR5305477.Aligned.sortedByCoord.out.bam"
